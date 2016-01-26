@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Gnews
+tagline:             'Software, tech & stuff'
+description:         ''
+url:                 github.com
+baseurl:             ''
+gems: 		         [jekyll-paginate]
+paginate:            1
+
+# About/contact
+author:
+  name:              PF
+  url:               github
+  email:             p@p.com
+
+# Custom vars
+version:             1.0.0
