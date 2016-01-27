@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World!
+category: week
+tags: [test, test1]
 ---
 
 # Stagna memori Stheneleius magna circumvolat daedalus victa

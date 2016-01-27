@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Gnews</title>
- <link href="github.com/atom.xml" rel="self"/>
- <link href="github.com/"/>
- <updated>2016-01-26T23:21:49+01:00</updated>
- <id>github.com</id>
+ <link href="http://capravictoriae.github.io/gnews//gnews/atom.xml" rel="self"/>
+ <link href="http://capravictoriae.github.io/gnews//gnews/"/>
+ <updated>2016-01-27T09:43:23+01:00</updated>
+ <id>http://capravictoriae.github.io/gnews/</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>PF</name>
+   <email>p@p.com</email>
  </author>
 
  
  <entry>
    <title>Hello World!</title>
-   <link href="github.com/2014/01/02/Markdown-test/"/>
+   <link href="http://capravictoriae.github.io/gnews//week/2014/01/02/Markdown-test/"/>
    <updated>2014-01-02T00:00:00+01:00</updated>
-   <id>github.com/2014/01/02/Markdown-test</id>
+   <id>http://capravictoriae.github.io/gnews//gnews/week/2014/01/02/Markdown-test</id>
    <content type="html">&lt;h1 id=&quot;stagna-memori-stheneleius-magna-circumvolat-daedalus-victa&quot;&gt;Stagna memori Stheneleius magna circumvolat daedalus victa&lt;/h1&gt;
 
 &lt;h2 id=&quot;a-tamen-postquam-poterit&quot;&gt;A tamen postquam poterit&lt;/h2&gt;

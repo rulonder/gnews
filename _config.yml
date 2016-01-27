@@ -8,8 +8,8 @@ title:               Gnews
 tagline:             'Software, tech & stuff'
 description:         ''
 url:                 http://capravictoriae.github.io/gnews/
-baseurl:             ''
-gems: 		         [jekyll-paginate]
+baseurl:             '/gnews'
+gems: 		         [jekyll-paginate, jekyll-archives]
 paginate:            1
 
 # About/contact
