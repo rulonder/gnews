@@ -7,15 +7,15 @@ permalink:           pretty
 title:               Gnews
 tagline:             'Software, tech & stuff'
 description:         ''
-url:                 http://capravictoriae.github.io/gnews/
+url:                 http://capravictoriae.github.io/gnews
 baseurl:             '/gnews'
-gems: 		         [jekyll-paginate, jekyll-archives]
 paginate:            1
+gems: 				 [jekyll-paginate]
 
 # About/contact
 author:
   name:              PF
-  url:               github
+  url:               https://github.com/capravictoriae/gnews
   email:             p@p.com
 
 # Custom vars
