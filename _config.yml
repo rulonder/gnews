@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Gnews
 tagline:             'Software, tech & stuff'
 description:         ''
-url:                 github.com
+url:                 http://capravictoriae.github.io/gnews/
 baseurl:             ''
 gems: 		         [jekyll-paginate]
 paginate:            1
